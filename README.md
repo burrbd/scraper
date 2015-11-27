@@ -1,7 +1,7 @@
 ### Product scraper
 
 Application follows and scrapes products from the following URL:
-```http://hiring-tests.s3-website-eu-west-1.amazonaws.com/2015_Developer_Scrape/5_products.html```
+http://hiring-tests.s3-website-eu-west-1.amazonaws.com/2015_Developer_Scrape/5_products.html
 
 Application uses https://github.com/PuerkitoBio/goquery project for parsing HTML contents.
 
